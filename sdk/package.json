@@ -1,0 +1,25 @@
+{
+  "name": "@pprevankar/package2",
+  "version": "1.0.0",
+  "description": "Checking for accessing child SDK package(package 2) creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pprevankar/package-access.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/pprevankar"
+  },
+  "keywords": [
+    "package2"
+  ],
+  "author": "cret",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pprevankar/package-access/issues"
+  },
+  "homepage": "https://github.com/pprevankar/package-access#readme"
+}

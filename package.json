@@ -1,0 +1,25 @@
+{
+  "name": "@pprevankar/package1",
+  "version": "1.0.0",
+  "description": "Checking for SDK package 1 creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pprevankar/package-access.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/pprevankar"
+  },
+  "keywords": [
+    "package1"
+  ],
+  "author": "cret",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pprevankar/package-access/issues"
+  },
+  "homepage": "https://github.com/pprevankar/package-access#readme"
+}
